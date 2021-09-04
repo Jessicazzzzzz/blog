@@ -1,4 +1,4 @@
-﻿C语言经典算法100例
+C
 
 
 本文永久更新链接地址：http://www.linuxidc.com/Linux/2016-07/133268.htm
