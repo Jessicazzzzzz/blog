@@ -1,2 +1,0 @@
-
-         printf("enter a string:");
