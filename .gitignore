@@ -109,3 +109,4 @@ tags
 # Persistent undo
 [._]*.un~
 Iconr
+.DS_Store
